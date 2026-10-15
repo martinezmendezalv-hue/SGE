@@ -1,0 +1,56 @@
+1. Identifica sistemas de planificación de recursos empresariales y de gestión de relaciones con clientes (ERP-CRM)
+reconociendo sus características y verificando la configuración del sistema informático.
+a) Se ha reconocido la organización de una empresa.
+b) Se han reconocido los diferentes sistemas ERP-CRM que existen en el mercado.
+c) Se han comparado sistemas ERP-CRM en función de sus características y requisitos.
+d) Se ha identificado el sistema operativo adecuado a cada sistema ERP-CRM.
+e) Se ha identificado el sistema gestor de datos adecuado a cada sistema ERP-CRM.
+f) Se han verificado las configuraciones del sistema operativo y del gestor de datos para garantizar la funcionalidad
+del ERP-CRM.
+g) Se ha identificado el sistema de gestión empresarial con acceso móvil.
+h) Se han documentado las operaciones realizadas.
+i) Se han documentado las incidencias producidas durante el proceso.
+
+2. Implanta sistemas ERP-CRM interpretando la documentación técnica e identificando las diferentes opciones y
+módulos
+
+a) Se han identificado los diferentes tipos de licencia.
+b) Se han identificado los módulos que componen el ERP-CRM.
+c) Se han realizado instalaciones monopuesto.
+d) Se han realizado instalaciones cliente/servidor.
+e) Se han configurado los módulos instalados.
+f) Se han realizado instalaciones adaptadas a las necesidades planteadas en diferentes supuestos.
+g) Se ha verificado el funcionamiento del ERP-CRM.
+h) Se han documentado las operaciones realizadas y las incidencias.
+i) Se ha instalado y configurado la asistencia técnica y remota en un sistema ERP-CRM.
+
+3. Realiza operaciones de gestión y consulta de la información siguiendo las especificaciones de diseño y utilizando
+las herramientas proporcionadas por los sistemas ERP-CRM.
+a) Se han utilizado herramientas y lenguajes de consulta y manipulación de datos proporcionados por los sistemas
+ERP-CRM.
+b) Se han generado formularios.
+c) Se han generado informes.
+d) Se han exportado datos e informes.
+e) Se han automatizado las extracciones de datos mediante procesos.
+f) Se han realizado auditorías de control de acceso a datos y trazas del sistema.
+g) Se han documentado las operaciones realizadas y las incidencias observadas.
+
+4. Adapta sistemas ERP-CRM identificando los requerimientos de un supuesto empresarial y utilizando las herramientas proporcionadas por los mismos.
+a) Se han identificado las posibilidades de adaptación del ERP-CRM.
+b) Se han adaptado definiciones de campos, tablas y vistas de la base de datos del ERP-CRM.
+c) Se han adaptado consultas.
+d) Se han adaptado interfaces de entrada de datos y de procesos.
+e) Se han personalizado informes.
+f) Se han creado gráficos personalizados.
+g) Se han adaptado procedimientos almacenados de servidor.
+h) Se han realizado pruebas.
+i) Se han documentado las operaciones realizadas y las incidencias observadas.
+
+
+5. Desarrolla componentes para un sistema ERP-CRM analizando y utilizando el lenguaje de programación incorporado.
+a) Se han reconocido las sentencias del lenguaje propio del sistema ERP-CRM.
+b) Se han utilizado los elementos de programación del lenguaje para crear componentes de manipulación de datos.
+c) Se han modificado componentes software para añadir nuevas funcionalidades al sistema.
+d) Se han integrado los nuevos componentes software en el sistema ERP-CRM.
+e) Se ha verificado el correcto funcionamiento de los componentes creados.
+f) Se han documentado todos los componentes creados o modificados.
